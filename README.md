@@ -1,3 +1,3 @@
 # yt-
  new design repo 
-aurthor - amarjeet
+aurthor - amarjeet verma
